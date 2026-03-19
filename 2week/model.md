@@ -1,4 +1,4 @@
-# AI-Class - Classification(분류)
+# AI-Class: Classification(분류)
 ### 1. 로지스틱 회귀 모델(Logistic Regression)
 * **작동원리**: 입력데이터($X$)의 선형 조합을 구한 뒤, 이를 시그모이드(Sigmoid) 함수에 통과시켜, 0과 1사이의 확률값으로 변환. 보통 확률이 0.5보다 크면 `1(당뇨병)`, 작으면 `0(정상)`으로 판단.
 * **특징**
